@@ -1,0 +1,18 @@
+*,
+*::after,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 5em ;
+}
+
+/* .card {
+    max-height: 100vh;
+    object-fit: cover;
+    object-position: center;
+
+} */
